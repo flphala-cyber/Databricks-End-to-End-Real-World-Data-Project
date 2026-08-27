@@ -5,7 +5,7 @@ A production-grade, multi-pipeline data platform built using Azure Databricks, S
 ---
 
 ## 🌐 Live Project Showcase
-🚀 **Interactive Web Application:** [Explore the Live App Presentation](https://lovable.app)
+🚀 **Interactive Web Application:** 👉 *[Live Project Presentation Interface](https://lovableproject.com)
 *Click the link above to view the full product slide narrative, architectural breakdowns, and interactive platform insights for this solution.*
 
 ---
