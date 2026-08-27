@@ -4,8 +4,9 @@ This production-ready repository documents the end-to-end design, implementation
 
 ## 🚀 Live Project & Interactive Presentation
 
-Explore the architecture interactive walk-through and dashboard wireframes live on the web:
-👉 **[Live Project Presentation Interface](https://lovableproject.com)** 
+Explore the architecture interactive walk-through and dashboard wireframes live on the web: 
+👉 **[Live Project Presentation Interface](https://lovableproject.com)**
+
 
 ---
 
